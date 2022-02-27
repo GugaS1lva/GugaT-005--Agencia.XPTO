@@ -3,3 +3,6 @@ Site criado durante a Live Secreta dos Gêmeos, uma página com JS (aparentement
 
 <hr>
 https://gugas1lva.github.io/GugaTestes-005--Agencia.XPTO/#
+
+
+Há um problema com o JavaScript desse projeto. <br>NOTA: Precisa ser revisado e atualizado!!
